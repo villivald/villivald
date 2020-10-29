@@ -11,7 +11,7 @@
 
 The summary of the main languages present on my github : 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villivald&layout=compact)](https://github.com/villivald/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villivald)](https://github.com/villivald/github-readme-stats)
 
 [![Blog](https://i.imgur.com/nol4f7Z.png)](https://create-react-app.com/)
 [![LinkedIn](https://i.imgur.com/3GY2eJw.png)](https://www.linkedin.com/in/maxim-villivald-4b1b311a3/)
