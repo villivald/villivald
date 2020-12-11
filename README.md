@@ -3,7 +3,7 @@
 
 - 🔥 [Blog](https://create-react-app.com/)
 - ⚡️ [Website](https://proj.create-react-app.com/)
-- 🔭 I’m currently working on: [React Native App](https://github.com/villivald/todo_app_react_native_2020)
+- 🔭 I’m currently working on: [My Website](https://github.com/villivald/proj_react_2020)
 - 🌱 I’m currently learning: IT @ [LAB University of Applied Sciences](https://lab.fi/en), Full Stack for Front-End Engineers @ [Frontend Masters](https://frontendmasters.com/courses/fullstack-v2/)
 - 🚀 I plan to learn next: Typescript, NextJS, Vue, Svelte, Laravel
 
