@@ -4,8 +4,8 @@
 - 🔥 [Blog](https://create-react-app.com/)
 - ⚡️ [Website](https://villivald.com/)
 - 🔭 I’m currently working on: [My Website](https://github.com/villivald/proj_react_2020)
-- 🌱 I’m currently learning: IT @ [LAB University of Applied Sciences](https://lab.fi/en), Understanding TypeScript @ [Udemy](https://www.udemy.com/course/understanding-typescript/), Web Application Development and NoSQL @ [Savonia University of Applied Sciences](https://www.lyyti.fi/p/CampusOnline21_Websovelluskehitys_ja_NoSQLkannat_7210), Data Visualization @ [FreeCodeCamp](https://www.freecodecamp.org/learn/data-visualization/)
-- 🚀 I plan to learn next: NextJS, Vue, Svelte, Laravel
+- 🌱 I’m currently learning: IT @ [LAB University of Applied Sciences](https://lab.fi/en), Web Application Development and NoSQL @ [Savonia University of Applied Sciences](https://www.lyyti.fi/p/CampusOnline21_Websovelluskehitys_ja_NoSQLkannat_7210), Data Visualization @ [FreeCodeCamp](https://www.freecodecamp.org/learn/data-visualization/)
+- 🚀 I plan to learn next: NextJS, Vue, Svelte
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=radical) 
 
