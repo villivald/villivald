@@ -4,8 +4,8 @@
 - 🔥 [Blog](https://create-react-app.com/)
 - ⚡️ [Website](https://villivald.com/)
 - 🔭 I’m currently working on: [My Website](https://github.com/villivald/proj_react_2020)
-- 🌱 I’m currently learning: IT @ [LAB University of Applied Sciences](https://lab.fi/en), Web Application Development and NoSQL @ [Savonia University of Applied Sciences](https://www.lyyti.fi/p/CampusOnline21_Websovelluskehitys_ja_NoSQLkannat_7210), Data Visualization @ [FreeCodeCamp](https://www.freecodecamp.org/learn/data-visualization/)
-- 🚀 I plan to learn next: NextJS, Vue, Svelte
+- 🌱 I’m currently learning: IT @ [LAB University of Applied Sciences](https://lab.fi/en), Full Stack Open @ [University of Helsinki](https://fullstackopen.com/en/), Data Visualization @ [FreeCodeCamp](https://www.freecodecamp.org/learn/data-visualization/)
+- 🚀 I plan to learn next: NextJS, Vue, Docker
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=radical) 
 
@@ -21,4 +21,9 @@ The summary of the main languages present on my github :
 <a href="https://dev.to/villivald">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="MV's DEV Profile" height="64" width="64">
 </a>
+<a href="https://proj.ninja/">
+  <img src="https://i.imgur.com/inVEkqs.png" alt="MV's Hashnode Profile" height="64" width="64">
+</a>
+
+
     
