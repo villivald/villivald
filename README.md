@@ -54,3 +54,7 @@ The summary of the main languages present on my github :
 </div>
 
 ---
+
+✍️ Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
