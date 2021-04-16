@@ -31,8 +31,6 @@ The summary of the main languages present on my github :
 
 ---
 
----
-
 🧰 Toolbox
 
 <div>
