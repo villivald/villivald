@@ -18,16 +18,17 @@ The summary of the main languages present on my github :
 📱 Social
 
 [![Blog](https://i.imgur.com/nol4f7Z.png)](https://create-react-app.com/)
-[![LinkedIn](https://i.imgur.com/3GY2eJw.png)](https://www.linkedin.com/in/maxim-villivald-4b1b311a3/)
-[![Twitter](https://i.imgur.com/SnM7J4Q.png)](https://twitter.com/crapp_blog)
-[![Telegram](https://i.imgur.com/YZlT2nQ.png)](https://t.me/create_react_app)
-[![Mail](https://i.imgur.com/sXLQrSA.png)](mailto:maxim.villivald@gmail.com)
 <a href="https://dev.to/villivald">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="MV's DEV Profile" height="64" width="64">
 </a>
 <a href="https://proj.ninja/">
   <img src="https://i.imgur.com/inVEkqs.png" alt="MV's Hashnode Profile" height="64" width="64">
 </a>
+[![LinkedIn](https://i.imgur.com/3GY2eJw.png)](https://www.linkedin.com/in/maxim-villivald-4b1b311a3/)
+[![Twitter](https://i.imgur.com/SnM7J4Q.png)](https://twitter.com/crapp_blog)
+[![Telegram](https://i.imgur.com/YZlT2nQ.png)](https://t.me/create_react_app)
+[![Mail](https://i.imgur.com/sXLQrSA.png)](mailto:maxim.villivald@gmail.com)
+
 ---
 
 ---
@@ -50,7 +51,6 @@ The summary of the main languages present on my github :
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="CSS Logo" width="50" height="50"/>
 </div>
 
 ---
