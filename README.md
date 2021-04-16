@@ -57,7 +57,7 @@ The summary of the main languages present on my github :
 <!-- BLOG-POST-LIST:START -->
 - [[19] Top 10 Must-Have Web Dev Tools – April 2021](https://dev.to/villivald/19-top-10-must-have-web-dev-tools-april-2021-1dii)
 - [[18] Top 10 Must-Have Web Dev Tools - March 2021](https://dev.to/villivald/18-top-10-must-have-web-dev-tools-march-2021-ij2)
-- [[17] Becoming a Web Developer: Fall-Winter 2020](https://dev.to/villivald/17-becoming-a-web-developer-fall-winter-2020-2oaf)
+- [[17] Becoming a Web Developer: Fall-Winter 2020.](https://dev.to/villivald/17-becoming-a-web-developer-fall-winter-2020-2oaf)
 - [[16] The 15 Best Developer Resources in 2020 - Part II](https://dev.to/villivald/16-the-15-best-developer-resources-in-2020-part-ii-2igo)
 - [[15] The 15 Best Web Development Blogs in 2020](https://dev.to/villivald/15-top-15-web-development-blogs-in-2020-1na)
 <!-- BLOG-POST-LIST:END -->
