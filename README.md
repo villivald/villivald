@@ -4,7 +4,7 @@
 - 🔥 [Blog](https://create-react-app.com/)
 - ⚡️ [Website](https://villivald.com/)
 - 🔭 I’m currently working on: [My Website](https://github.com/villivald/proj_react_2020)
-- 🌱 I’m currently learning: IT @ [LAB University of Applied Sciences](https://lab.fi/en), Full Stack Open @ [University of Helsinki](https://fullstackopen.com/en/), Data Visualization @ [FreeCodeCamp](https://www.freecodecamp.org/learn/data-visualization/)
+- 🌱 I’m currently learning: IT @ [LAB University of Applied Sciences](https://lab.fi/en), Full Stack Open @ [University of Helsinki](https://fullstackopen.com/en/)
 - 🚀 I plan to learn next: NextJS, Vue, Docker
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=radical) 
