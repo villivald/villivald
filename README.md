@@ -3,7 +3,7 @@
 
 - 🔥 [Blog](https://create-react-app.com/)
 - ⚡️ [Website](https://villivald.com/)
-- 🔭 I’m currently working on: [My Website](https://github.com/villivald/proj_react_2020)
+- 🔭 I’m currently working on: [My Website](https://github.com/villivald/proj_react_2020) & [Koripallopaikat](https://github.com/villivald/koripallopaikat)
 - 🌱 I’m currently learning: IT @ [LAB University of Applied Sciences](https://lab.fi/en), Full Stack Open @ [University of Helsinki](https://fullstackopen.com/en/)
 - 🚀 I plan to learn next: NextJS, Vue, Docker
 
