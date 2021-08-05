@@ -38,13 +38,13 @@ The summary of the main languages present on my github :
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
