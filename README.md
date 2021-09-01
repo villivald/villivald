@@ -21,6 +21,9 @@ The summary of the main languages present on my github :
 <a href="https://dev.to/villivald">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="MV's DEV Profile" height="64" width="64">
 </a>
+<a href="https://hackernoon.com/u/villivald">
+  <img alt="hackernoon logo" src="https://hackernoon.com/hn-icon.png" width="64" height="64"/>
+</a>
 <a href="https://proj.ninja/">
   <img src="https://i.imgur.com/inVEkqs.png" alt="MV's Hashnode Profile" height="64" width="64">
 </a>
