@@ -24,9 +24,6 @@ The summary of the main languages present on my github :
 <a href="https://hackernoon.com/u/villivald">
   <img alt="hackernoon logo" src="https://hackernoon.com/hn-icon.png" width="64" height="64"/>
 </a>
-<a href="https://proj.ninja/">
-  <img src="https://i.imgur.com/inVEkqs.png" alt="MV's Hashnode Profile" height="64" width="64">
-</a>
 [![LinkedIn](https://i.imgur.com/3GY2eJw.png)](https://www.linkedin.com/in/maxim-villivald-4b1b311a3/)
 [![Twitter](https://i.imgur.com/SnM7J4Q.png)](https://twitter.com/crapp_blog)
 [![Telegram](https://i.imgur.com/YZlT2nQ.png)](https://t.me/create_react_app)
