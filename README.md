@@ -1,10 +1,11 @@
 ### Maxim Villivald 👋 
+##### Front-End Developer at [The National Library of Finland](https://www.kansalliskirjasto.fi/en)
 ### Finland, Helsinki 🇫🇮
 
-- 🔥 [Blog](https://create-react-app.com/)
 - ⚡️ [Website](https://villivald.com/)
-- 🔭 I’m currently working on: [My Website](https://github.com/villivald/proj_react_2020) & [Koripallopaikat](https://github.com/villivald/koripallopaikat)
-- 🌱 I’m currently learning: IT @ [LAB University of Applied Sciences](https://lab.fi/en), Full Stack Open @ [University of Helsinki](https://fullstackopen.com/en/)
+- 🔥 [Blog](https://create-react-app.com/)
+- 🔭 I’m currently working on: [Koripallopaikat](https://github.com/villivald/koripallopaikat)
+- 🌱 I’m currently learning: IT @ [LAB University of Applied Sciences](https://lab.fi/en)
 - 🚀 I plan to learn next: Vue, Ionic, Rust
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=radical) 
