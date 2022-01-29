@@ -1,11 +1,11 @@
 ### Maxim Villivald 👋 
-##### 👨‍💻 Front-End Developer at [The National Library of Finland](https://www.kansalliskirjasto.fi/en)
+##### Front-End Developer at [The National Library of Finland](https://www.kansalliskirjasto.fi/en) 👨‍💻 
 ### Finland, Helsinki 🇫🇮
 
 - ⚡️ [Website](https://villivald.com/)
 - 🔥 [Blog](https://create-react-app.com/)
-- 🔭 I’m currently working on: [Koripallopaikat](https://github.com/villivald/koripallopaikat)
-- 🌱 I’m currently learning: IT @ [LAB University of Applied Sciences](https://lab.fi/en)
+- 🏀 My latest side project: [Koripallopaikat](https://github.com/villivald/koripallopaikat)
+- 🎓 My current place of study: IT @ [LAB University of Applied Sciences](https://lab.fi/en)
 - 🚀 I plan to learn next: Vue, Ionic, Rust
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=radical) 
@@ -27,29 +27,24 @@ The summary of the main languages present on my github :
 </a>
 [![LinkedIn](https://i.imgur.com/3GY2eJw.png)](https://www.linkedin.com/in/maxim-villivald-4b1b311a3/)
 [![Twitter](https://i.imgur.com/SnM7J4Q.png)](https://twitter.com/crapp_blog)
-[![Telegram](https://i.imgur.com/YZlT2nQ.png)](https://t.me/create_react_app)
-[![Mail](https://i.imgur.com/sXLQrSA.png)](mailto:maxim.villivald@gmail.com)
 
 ---
 
 🧰 Toolbox
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next js Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux Logo" width="50" height="50"/> 
 </div>
 
 ---
