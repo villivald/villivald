@@ -18,15 +18,21 @@ The summary of the main languages present on my github :
 
 📱 Social
 
-[![Blog](https://i.imgur.com/CdFy6Q2.png)](https://create-react-app.com/)
+<a href="https://create-react-app.com/">
+  <img src="https://i.imgur.com/CdFy6Q2.png" alt="MV's DEV Profile" height="60" width="60">
+</a>
 <a href="https://dev.to/villivald">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="MV's DEV Profile" height="64" width="64">
 </a>
 <a href="https://hackernoon.com/u/villivald">
-  <img alt="hackernoon logo" src="https://hackernoon.com/hn-icon.png" width="64" height="64"/>
+  <img alt="hackernoon logo" src="https://hackernoon.com/hn-icon.png" width="60" height="60"/>
 </a>
-[![LinkedIn](https://i.imgur.com/3GY2eJw.png)](https://www.linkedin.com/in/maxim-villivald-4b1b311a3/)
-[![Twitter](https://i.imgur.com/SnM7J4Q.png)](https://twitter.com/crapp_blog)
+<a href="https://www.linkedin.com/in/maxim-villivald-4b1b311a3/">
+  <img alt="hackernoon logo" src="https://i.imgur.com/3GY2eJw.png" width="64" height="64"/>
+</a>
+<a href="https://twitter.com/crapp_blog">
+  <img alt="hackernoon logo" src="https://i.imgur.com/SnM7J4Q.png" width="64" height="64"/>
+</a>
 
 ---
 
