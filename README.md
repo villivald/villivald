@@ -27,12 +27,16 @@ The summary of the main languages present on my github :
 <a href="https://hackernoon.com/u/villivald">
   <img alt="hackernoon logo" src="https://hackernoon.com/hn-icon.png" width="60" height="60"/>
 </a>
-<a href="https://www.linkedin.com/in/maxim-villivald-4b1b311a3/">
+<a href="https://www.linkedin.com/in/villivald">
   <img alt="hackernoon logo" src="https://i.imgur.com/3GY2eJw.png" width="64" height="64"/>
 </a>
 <a href="https://twitter.com/crapp_blog">
   <img alt="hackernoon logo" src="https://i.imgur.com/SnM7J4Q.png" width="64" height="64"/>
 </a>
+<a href="https://t.me/villivald">
+  <img alt="hackernoon logo" src="https://i.imgur.com/YZlT2nQ.png" width="64" height="64"/>
+</a>
+
 
 ---
 
