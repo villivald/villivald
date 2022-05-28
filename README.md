@@ -18,9 +18,8 @@ The summary of the main languages present on my github :
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
