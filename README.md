@@ -15,9 +15,6 @@ The summary of the main languages present on my github :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villivald&layout=compact)
 
-
-### :zap: Recent Activity
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -40,13 +37,6 @@ Saturday     115 commits    ████░░░░░░░░░░░░░�
 Sunday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22%
 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
 
 <!--END_SECTION:waka-->
 
