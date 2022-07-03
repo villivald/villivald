@@ -4,7 +4,7 @@
 
 - ⚡️ [Website](https://villivald.com/)
 - 🔥 [Blog](https://create-react-app.com/)
-- 🏀 My latest side project: [Koripallopaikat](https://github.com/villivald/koripallopaikat)
+- 🏀 My current side projects: [Koripallopaikat](https://github.com/villivald/koripallopaikat) & [New personal website](https://github.com/villivald/villivald.com)
 - 🎓 My current place of study: IT @ [LAB University of Applied Sciences](https://lab.fi/en)
 - 🚀 I plan to learn next: Vue, Ionic, Rust
 
