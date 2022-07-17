@@ -31,10 +31,10 @@ The summary of the main languages present on my github :
 Monday       66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
 Tuesday      54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
 Wednesday    72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Thursday     56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-Friday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
+Thursday     55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
+Friday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
 Saturday     100 commits    █████░░░░░░░░░░░░░░░░░░░░   20.12% 
-Sunday       80 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.1%
+Sunday       82 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5%
 
 ```
 
