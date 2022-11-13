@@ -6,7 +6,6 @@
 - 🔥 [Blog](https://create-react-app.com/)
 - 🏀 My current side projects: [Koripallopaikat](https://github.com/villivald/koripallopaikat) & [New personal website](https://github.com/villivald/villivald.com)
 - 🎓 My current place of study: IT @ [LAB University of Applied Sciences](https://lab.fi/en)
-- 🚀 I plan to learn next: Vue, Ionic, Rust
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=radical) <br/>
 ![Profile views](https://gpvc.arturio.dev/villivald)
@@ -87,6 +86,7 @@ Bash                     1 min               ░░░░░░░░░░░�
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next js Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb Logo" width="50" height="50"/>
@@ -95,6 +95,9 @@ Bash                     1 min               ░░░░░░░░░░░�
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma Logo" width="50" height="50"/> 
 </div>
 
 ---
