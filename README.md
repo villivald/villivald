@@ -8,7 +8,6 @@
 - 🎓 My current place of study: IT @ [LAB University of Applied Sciences](https://lab.fi/en)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=radical) <br/>
-![Profile views](https://gpvc.arturio.dev/villivald)
 
 The summary of the main languages present on my github : 
 
