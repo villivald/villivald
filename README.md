@@ -4,7 +4,7 @@
 
 - ⚡️ [Website](https://villivald.com/)
 - 🔥 [Blog](https://create-react-app.com/)
-- 🏀 My current side projects: [Koripallopaikat](https://github.com/villivald/koripallopaikat) & [New personal website](https://github.com/villivald/villivald.com)
+- 🏀 Side projects: [Koripallopaikat](https://github.com/villivald/koripallopaikat) & [New version of a personal website](https://github.com/villivald/villivald.com)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=radical) <br/>
 
