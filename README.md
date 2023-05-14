@@ -5,7 +5,6 @@
 - ⚡️ [Website](https://villivald.com/)
 - 🔥 [Blog](https://create-react-app.com/)
 - 🏀 My current side projects: [Koripallopaikat](https://github.com/villivald/koripallopaikat) & [New personal website](https://github.com/villivald/villivald.com)
-- 🎓 My current place of study: IT @ [LAB University of Applied Sciences](https://lab.fi/en)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=radical) <br/>
 
@@ -65,8 +64,8 @@ HTML                     14 mins             ░░░░░░░░░░░�
 <a href="https://www.linkedin.com/in/villivald">
   <img alt="hackernoon logo" src="https://i.imgur.com/3GY2eJw.png" width="64" height="64"/>
 </a>
-<a href="https://twitter.com/crapp_blog">
-  <img alt="hackernoon logo" src="https://i.imgur.com/SnM7J4Q.png" width="64" height="64"/>
+<a href="https://mastodon.world/@villivald">
+  <img alt="hackernoon logo" src="https://joinmastodon.org/logos/logo-purple.svg" width="64" height="64"/>
 </a>
 <a href="https://t.me/villivald">
   <img alt="hackernoon logo" src="https://i.imgur.com/YZlT2nQ.png" width="64" height="64"/>
