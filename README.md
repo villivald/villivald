@@ -6,11 +6,8 @@
 - 🔥 [Blog](https://create-react-app.com/)
 - 🏀 Side projects: [Koripallopaikat](https://github.com/villivald/koripallopaikat) & [New version of a personal website](https://github.com/villivald/villivald.com)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=radical) <br/>
-
-The summary of the main languages present on my github : 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villivald&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=dracula&hide_rank=true&hide_title=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villivald&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
