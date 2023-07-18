@@ -61,7 +61,7 @@ TypeScript               52 mins             █░░░░░░░░░░�
 <a href="https://www.linkedin.com/in/villivald">
   <img alt="hackernoon logo" src="https://i.imgur.com/3GY2eJw.png" width="64" height="64"/>
 </a>
-<a href="https://mastodon.world/@villivald">
+<a href="https://notacult.social/@villivald">
   <img alt="hackernoon logo" src="https://joinmastodon.org/logos/logo-purple.svg" width="64" height="64"/>
 </a>
 <a href="https://t.me/villivald">
