@@ -52,8 +52,14 @@ JSON                     47 mins             █░░░░░░░░░░�
 
 📱 Social
 
-<a href="https://create-react-app.com/">
-  <img src="https://i.imgur.com/CdFy6Q2.png" alt="MV's DEV Profile" height="60" width="60">
+<a href="https://www.linkedin.com/in/villivald">
+  <img alt="hackernoon logo" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" width="64" height="64"/>
+</a>
+<a href="https://notacult.social/@villivald">
+  <img alt="hackernoon logo" src="https://joinmastodon.org/logos/logo-purple.svg" width="64" height="64"/>
+</a>
+<a href="https://t.me/villivald">
+  <img alt="hackernoon logo" src="https://cdn2.iconfinder.com/data/icons/social-media-2420/512/Telegram-512.png" width="64" height="64"/>
 </a>
 <a href="https://dev.to/villivald">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="MV's DEV Profile" height="64" width="64">
@@ -61,16 +67,6 @@ JSON                     47 mins             █░░░░░░░░░░�
 <a href="https://hackernoon.com/u/villivald">
   <img alt="hackernoon logo" src="https://hackernoon.com/hn-icon.png" width="60" height="60"/>
 </a>
-<a href="https://www.linkedin.com/in/villivald">
-  <img alt="hackernoon logo" src="https://i.imgur.com/3GY2eJw.png" width="64" height="64"/>
-</a>
-<a href="https://notacult.social/@villivald">
-  <img alt="hackernoon logo" src="https://joinmastodon.org/logos/logo-purple.svg" width="64" height="64"/>
-</a>
-<a href="https://t.me/villivald">
-  <img alt="hackernoon logo" src="https://i.imgur.com/YZlT2nQ.png" width="64" height="64"/>
-</a>
-
 
 ---
 
