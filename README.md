@@ -4,7 +4,10 @@
 
 - ⚡️ [Website](https://villivald.com/)
 - 🔥 [Blog](https://create-react-app.com/)
-- 🏀 Side projects: [Koripallopaikat](https://github.com/villivald/koripallopaikat) & [New version of a personal website](https://github.com/villivald/villivald.com)
+- 🏀 Side projects:
+    - [Koripallopaikat - basketball courts](https://github.com/villivald/koripallopaikat)
+    - [New version of a personal website](https://github.com/villivald/villivald.com)
+    - [Wishlist App](https://github.com/villivald/wishlist)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=dracula&hide_rank=true&hide_title=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villivald&layout=compact&theme=dracula)
@@ -80,7 +83,6 @@ JSON                     47 mins             █░░░░░░░░░░�
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next js Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/> 
