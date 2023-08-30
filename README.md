@@ -38,7 +38,7 @@ Sunday                   340 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
