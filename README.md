@@ -1,6 +1,6 @@
 ### Maxim Villivald 👋 
-##### Front-End Developer at [The National Library of Finland](https://www.kansalliskirjasto.fi/en) 👨‍💻 
-### Finland, Helsinki 🇫🇮
+##### Front-End Developer 👨‍💻 
+##### Finland, Helsinki 🇫🇮
 
 - ⚡️ [Website](https://villivald.com/)
 - 🔥 [Blog](https://create-react-app.com/)
