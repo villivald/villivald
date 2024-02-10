@@ -1,5 +1,5 @@
 ### Maxim Villivald 👋 
-##### Front-End Developer 👨‍💻 
+##### Software Developer 👨‍💻 
 ##### Finland, Helsinki 🇫🇮
 
 - ⚡️ [Website](https://villivald.com/)
