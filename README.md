@@ -5,9 +5,9 @@
 - ⚡️ [Website](https://villivald.com/)
 - 🔥 [Blog](https://create-react-app.com/)
 - 🏀 Side projects:
-    - [Koripallopaikat - basketball courts](https://github.com/villivald/koripallopaikat)
-    - [New version of a personal website](https://github.com/villivald/villivald.com)
-    - [Wishlist App](https://github.com/villivald/wishlist)
+    - [villivald.com](https://github.com/villivald/villivald.com) - The latest version of my personal website
+    - [koripallopaikat.com](https://github.com/villivald/koripallopaikat) - A curated collection of public basketball courts in the Helsinki Metropolitan Area
+    - [wishlist.villivald.com](https://github.com/villivald/wishlist) - A Wishlist App
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=dracula&hide_rank=true&hide_title=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villivald&layout=compact&theme=dracula)
