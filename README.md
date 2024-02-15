@@ -94,9 +94,9 @@ SQL                      18 mins             ░░░░░░░░░░░�
 
 ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[31] 100 Days of Swift UI &lpar;upd. 15.02.24&rpar;](https://dev.to/villivald/31-100-days-of-swift-ui-upd-150224-14j5)
 - [[30] Accepting defeat and plans for the future](https://dev.to/villivald/30-accepting-defeat-and-plans-for-the-future-2k75)
 - [[29] How I got my first job in IT](https://dev.to/villivald/29-how-i-got-my-first-job-in-it-30aj)
 - [[28] Top 10 Web Dev Tools in 2021](https://dev.to/villivald/28-top-10-web-dev-tools-in-2021-1k4i)
 - [[27] Top 10 Must-Have Web Dev Tools – November 2021](https://dev.to/villivald/27-top-10-must-have-web-dev-tools-november-2021-1j4c)
-- [[26] Top 10 Must-Have Web Dev Tools – October 2021](https://dev.to/villivald/25-top-10-must-have-web-dev-tools-september-2021-200j)
 <!-- BLOG-POST-LIST:END -->
