@@ -40,9 +40,10 @@ Sunday                   401 commits         ███░░░░░░░░�
 
 🧰 Toolbox
 
+
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css Logo" width="50" height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2560px-Official_CSS_Logo.svg.png" alt="css Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react Logo" width="50" height="50"/> 
