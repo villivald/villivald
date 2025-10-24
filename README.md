@@ -4,8 +4,8 @@
 
 - ⚡️ [Website](https://villivald.com/)
 - 🔥 [Blog](https://create-react-app.com/)
-- 🏀 Side projects:
-    - [villivald.com](https://github.com/villivald/villivald.com) - The latest version of my personal website
+- 🚲 Side projects:
+    - [cyclist.fi](https://cyclist.fi) - Your essential Finnish cycling database - discover more at CYCLIST.FI
     - [koripallopaikat.com](https://github.com/villivald/koripallopaikat) - A curated collection of public basketball courts in the Helsinki Metropolitan Area
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villivald&show_icons=true&theme=dracula&hide_rank=true&hide_title=true) 
