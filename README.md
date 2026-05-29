@@ -12,6 +12,27 @@
 ![Top Langs](https://stats-rust-three.vercel.app/api/top-langs/?username=villivald&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+🌆 Daytime                1469 commits        ██████████░░░░░░░░░░░░░░░   41.64 % 
+🌃 Evening                1564 commits        ███████████░░░░░░░░░░░░░░   44.33 % 
+🌙 Night                  67 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   509 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Tuesday                  438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Wednesday                502 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Thursday                 542 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Friday                   511 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Saturday                 564 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Sunday                   462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+```
+
+
 
 <!--END_SECTION:waka-->
 
