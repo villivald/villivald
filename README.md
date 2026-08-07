@@ -12,33 +12,6 @@
 ![Top Langs](https://stats-rust-three.vercel.app/api/top-langs/?username=villivald&layout=compact&theme=dracula)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                431 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-🌆 Daytime                1471 commits        ██████████░░░░░░░░░░░░░░░   41.17 % 
-🌃 Evening                1603 commits        ███████████░░░░░░░░░░░░░░   44.86 % 
-🌙 Night                  68 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   517 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Tuesday                  442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Wednesday                507 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Thursday                 549 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Friday                   513 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Saturday                 570 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Sunday                   475 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
